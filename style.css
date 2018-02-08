@@ -1,1 +1,10 @@
-
+nav {
+    padding: 0px 10px 0px 10px;
+    display: block;
+    float: left;
+    border-right: 1px solid #000;
+    text-decoration: none;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000;
+}
