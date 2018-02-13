@@ -19,7 +19,7 @@ nav {
 }
 
 @media (min-width: 768px) {
-.navbar-brand.abs
+.navbar
     {
         position: absolute;
         width: 100%;
