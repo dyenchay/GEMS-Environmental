@@ -1,3 +1,7 @@
+body {
+   background-color:#bccb78;
+}
+
 .nav-link {
     padding: 0px 10px 0px 10px;
     display: block;
@@ -16,6 +20,11 @@
 nav {
     height: 50px;
     margin-top: 10px;
+    background-color: #5fa626;
+}
+
+#navbarNavAltMarkup {
+  background-color: #5fa626;
 }
 
 
@@ -26,4 +35,18 @@ nav {
     text-align: center;
     color: #000;
     font-size: x-large;
+}
+
+.logo {
+
+margin-top:35px;
+padding-right:50px;
+
+}
+
+
+.row {
+
+  background-color: white;
+
 }
